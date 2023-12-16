@@ -14,8 +14,8 @@
 1. リポジトリをローカルマシンにクローンします：
 
    ```bash
-   git clone https://github.com/yourusername/my-server-app.git
-   cd my-server-app
+   git clone https://github.com/yourusername/ise_intern_pub.git
+   cd ise_intern_pub
    ```
 2. Poetryを使用してプロジェクトの依存関係をインストールします：
    ```bash
